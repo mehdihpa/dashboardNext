@@ -2,7 +2,6 @@
 
 module.exports = {
   images: {
-    loader: "custom",
-    loaderFile: "./imageLoader.js",
-  },
+    unoptimized: true
+}
 };
